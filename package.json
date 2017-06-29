@@ -1,7 +1,7 @@
 {
   "name": "p5_boilerplate",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Quickstart for p5.js projects packaged from Pug and Sass with support for Dat.GUI and ES2016.",
   "main": "app.js",
   "scripts": {
     "build": "NODE_ENV=developement webpack",
