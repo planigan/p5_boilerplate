@@ -1,0 +1,17 @@
+// -*- mode: json; -*-
+{
+  "extends": "eslint:recommended",
+  "parserOptions": {
+    "acmaVersion": 6,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": false,
+      "module": true
+    }
+  },
+  "rules": {
+    "no-undef": 1,
+    "no-unused-vars": 1,
+    "no-console": 1,
+  }
+}
