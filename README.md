@@ -46,7 +46,6 @@ Hot reloading is working through `webpack-dev-server`. To get started:
 I have done anything to optimize for a production build yet, but you can get the
 following for deployment with `npm run build`.
 ```
-.
 ├── dist
 │   ├── assets
 │   │   └── img
@@ -55,5 +54,5 @@ following for deployment with `npm run build`.
 │   │   └── main.css
 │   ├── bundle.js
 │   └── index.html
-
+```
 More to come...
