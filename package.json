@@ -6,6 +6,7 @@
   "scripts": {
     "build": "NODE_ENV=developement webpack",
     "start": "webpack && webpack-dev-server --watch --inline --content-base dist",
+    "publish": "git subtree push --prefix dist origin gh-pages",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
